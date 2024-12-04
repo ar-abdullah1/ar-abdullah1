@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **abdullahmr804@gmail.com**
+- 📫 How to reach me **md.abdullah.tarapur@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
